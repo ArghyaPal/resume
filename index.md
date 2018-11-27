@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Research Interest
 
-You can use the [editor on GitHub](https://github.com/ArghyaPal/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Modern deep neural network models require large amounts of task-specific curated training data to perform well. Creating such annotated training data by hand is often too slow, inflexible and expensive. Unfortunately, heuristic methods, such as data augmentation, are limited in scope, and do not provide richness in the variety of training data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current research aims to raise the level of abstraction at which generative adversarial methods are used to generate data, by learning joint and conditional distributions that allow integration of robust annotation into the generative model. In particular, we propose programmable image generation and video generation, where the content and annotation of generated images and videos can be programmed by a user or learnt automatically from past examples. Generating curated data in this manner will provide new impetus to scale deep network models to newer domains quickly and effectively.
 
 ### Markdown
 
